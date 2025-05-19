@@ -17,3 +17,9 @@
 🎥 실행 영상:  
 [▶ https://youtube.com/shorts/Tevs-Jo1UP4?feature=share](https://youtube.com/shorts/Tevs-Jo1UP4?feature=share)
 
+---
+
+## 🔹 Evaluation
+
+📊  
+![evaluation](evaluation.png)
